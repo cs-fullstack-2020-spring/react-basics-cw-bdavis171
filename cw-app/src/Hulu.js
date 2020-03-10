@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 function Hulu(prop) {
+    console.log(prop)
     return (
         <p>
         <p>Title: {prop.showTitle}</p>

@@ -1,5 +1,7 @@
 # React Basics CW
-
+#### `object with properties showTitle, numberOfSeason, genre, and rating`
+#### Looks great but you didn't create and object :(
+#### Score : 4/5
 Create a new react app
 
 Create a new Hulu Component
